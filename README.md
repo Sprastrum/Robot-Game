@@ -1,2 +1,2 @@
 # Robot-Game
-It's a game about Robot what eat pizza.
+It's game about a Robot what eat pizza.
